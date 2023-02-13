@@ -1,0 +1,3 @@
+
+Entendimento do problema:
+Pesquisa 

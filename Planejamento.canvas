@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b6f1c8716c8633e6","x":-286,"y":969,"width":250,"height":60,"type":"text","text":"Fisica"},
+		{"id":"59b1708b9820a416","x":-286,"y":1277,"width":250,"height":60,"type":"text","text":"Matematica"},
+		{"id":"0ae0b8355db35e1b","x":204,"y":886,"width":250,"height":60,"type":"text","text":"Exercícios FIS02"},
+		{"id":"c42c99fa4e74a1f7","x":204,"y":1029,"width":250,"height":60,"type":"text","text":"Teoria FIS01"},
+		{"id":"81ecee674b67238e","x":204,"y":1194,"width":250,"height":60,"type":"text","text":"Exercícios MT02"},
+		{"id":"9cd138ef04b5df8d","x":204,"y":1337,"width":250,"height":60,"type":"text","text":"Teoria MT01"},
+		{"id":"f6ef458bc53ce07a","x":-286,"y":667,"width":250,"height":60,"type":"text","text":"Faculdade"},
+		{"id":"aa827879744a1f27","x":204,"y":667,"width":250,"height":60,"type":"text","text":"AutoEstudos FC01"},
+		{"id":"04d1e62053ea98ea","x":-286,"y":-172,"width":250,"height":60,"type":"text","text":"Computação"},
+		{"id":"96a4d3153c2bcf4c","x":204,"y":-232,"width":250,"height":60,"type":"text","text":"Nodejs Comp02"},
+		{"id":"4405526b68982d7a","x":204,"y":-340,"width":250,"height":60,"type":"text","text":"JavaScript (TypeSpript) Comp01"},
+		{"id":"7e2afc946af2a4b7","x":204,"y":-112,"width":250,"height":60,"type":"text","text":"Rush Comp03"},
+		{"id":"0903405df113147e","x":204,"y":5,"width":250,"height":60,"type":"text","text":"Blockchain Comp04"},
+		{"id":"799ff250dd230484","x":-286,"y":237,"width":250,"height":60,"type":"text","text":"L. Estrangeira"},
+		{"id":"e4d51ca50e4e249e","x":204,"y":130,"width":250,"height":29,"type":"text","text":"Write LE01"},
+		{"id":"c353d3c704a22167","x":204,"y":237,"width":250,"height":60,"type":"text","text":"Read LE02"},
+		{"id":"b298c8117d81f68f","x":204,"y":364,"width":250,"height":60,"type":"text","text":"Listen/Speak LE03"}
+	],
+	"edges":[
+		{"id":"d0922e41d4db0e03","fromNode":"04d1e62053ea98ea","fromSide":"right","toNode":"0903405df113147e","toSide":"left"},
+		{"id":"16f8fac550d19379","fromNode":"04d1e62053ea98ea","fromSide":"right","toNode":"4405526b68982d7a","toSide":"left"},
+		{"id":"0c1f9fb906bf638a","fromNode":"04d1e62053ea98ea","fromSide":"right","toNode":"96a4d3153c2bcf4c","toSide":"left"},
+		{"id":"42430795586337c0","fromNode":"04d1e62053ea98ea","fromSide":"right","toNode":"7e2afc946af2a4b7","toSide":"left"},
+		{"id":"675098b5c7a5cc62","fromNode":"799ff250dd230484","fromSide":"right","toNode":"c353d3c704a22167","toSide":"left"},
+		{"id":"aa922efef6355b07","fromNode":"799ff250dd230484","fromSide":"right","toNode":"e4d51ca50e4e249e","toSide":"left"},
+		{"id":"07b7c515f968f2de","fromNode":"799ff250dd230484","fromSide":"right","toNode":"b298c8117d81f68f","toSide":"left"},
+		{"id":"633b717d8b86c0d4","fromNode":"f6ef458bc53ce07a","fromSide":"right","toNode":"aa827879744a1f27","toSide":"left"},
+		{"id":"f03fdc93adde3a2f","fromNode":"b6f1c8716c8633e6","fromSide":"right","toNode":"0ae0b8355db35e1b","toSide":"left"},
+		{"id":"6c39e82fdeb78c50","fromNode":"b6f1c8716c8633e6","fromSide":"right","toNode":"c42c99fa4e74a1f7","toSide":"left"},
+		{"id":"60f65797c7624bc4","fromNode":"59b1708b9820a416","fromSide":"right","toNode":"81ecee674b67238e","toSide":"left"},
+		{"id":"1f057b5ce3ab9b55","fromNode":"59b1708b9820a416","fromSide":"right","toNode":"9cd138ef04b5df8d","toSide":"left"}
+	]
+}
