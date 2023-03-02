@@ -4,52 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd1f57d7f7a9b29",
+        "id": "8080c44aee83fa1c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee29a55b62dcdd4",
+            "id": "e5d218eaea4cba4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Computação/COMP01 - JavaScript/Capítulo 3/Arrays.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.16"
               }
             }
           },
           {
-            "id": "b6402b3adc8b5877",
+            "id": "46e7fd36b2e3283c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Computação/Comandos do Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6314c61a13efb9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/COMP01 - JavaScript/Capítulo 2/Funções de seta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93f89bf969dc6a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação/COMP01 - JavaScript/Capítulo 1/Instruções condicionais.md",
+                "file": "Faculdade/Computação/Python - Flask.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "e97639dfca8c620d",
@@ -122,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Computação/Comandos do Git.md",
+                "file": "Faculdade/Computação/Python - Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Computação/Comandos do Git.md",
+                "file": "Faculdade/Computação/Python - Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Computação/Comandos do Git.md"
+                "file": "Faculdade/Computação/Python - Flask.md"
               }
             }
           },
@@ -191,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -206,21 +180,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "translate:Open translation view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "translate:Open translation view": false
     }
   },
-  "active": "b6402b3adc8b5877",
+  "active": "46e7fd36b2e3283c",
   "lastOpenFiles": [
-    "Entendimento do Design.md",
-    "Métodos nativos de arrays.md",
-    "Computação/COMP01 - JavaScript/Capítulo 3/Arrays.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Instruções condicionais.md",
+    "Faculdade/Computação/Codigo/templates/index.html",
+    "Faculdade/Computação/Codigo/templates",
+    "Faculdade/Computação/Python - Flask.md",
+    "Faculdade/Física/Energia Cinética de rotação.md",
+    "Faculdade/Física/Força e Campo Magnético.md",
+    "Faculdade/Computação/Diodos.md",
+    "Faculdade/Computação/Comandos do Git.md",
+    "Faculdade/Computação/Circuitos integrados tradicionais.md",
+    "Faculdade/Computação/Circuitos combinacionais.md",
+    "Faculdade/Computação/Circuitos de funções lógicas.md",
+    "Faculdade/Computação/Transistor.md",
+    "Faculdade/Computação/Programa de automação industrial.md",
+    "Faculdade/Computação/Sistema binário de numeração.md",
+    "Faculdade/Computação/Git.md",
+    "Faculdade/Computação/Flip-Flops.md",
+    "Faculdade/Computação/Elementos de circuitos.md",
+    "Images/Pasted image 20230301090146.png",
+    "Images/Pasted image 20230228200140.png",
+    "Images/Pasted image 20230228195852.png",
+    "Images/Pasted image 20230228195325.png",
+    "Macro ao Micro.md",
+    "Images/Pasted image 20230228114157.png",
+    "Images/Pasted image 20230228114106.png",
+    "Images/Pasted image 20230228113610.png",
+    "Images/Pasted image 20230228113435.png",
+    "Images/Pasted image 20230228113325.png",
+    "Images/Pasted image 20230228112453.png",
+    "Faculdade/Física/Torque.md",
+    "Faculdade/Física",
+    "Faculdade/Física/2° Lei de Newton para Rotações.md",
+    "Computação/COMP01 - JavaScript/Capítulo 1/Programação orientada a objetos.md",
+    "Computação/COMP01 - JavaScript/Capítulo 1/JavaScript - Uma visão geral (Cap 1).md",
+    "Computação/COMP01 - JavaScript/Capítulo 2/Introdução a TypeScript.md",
+    "Computação/COMP01 - JavaScript/Capítulo 2/Introdução a ECMAScript.md",
     "Computação/COMP01 - JavaScript/Capítulo 2/Funções de seta.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Operadores Lógicos.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Tipos de variáveis.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Variáveis.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Verdadeiro e Falso.md",
-    "Computação/COMP01 - JavaScript/Capítulo 1/Funções dos operadores de igualdade.md"
+    "Computação/COMP01 - JavaScript/Capítulo 2/ECMAScript e TypeScript - Cap 2.md",
+    "Computação/COMP01 - JavaScript/Capítulo 2/Variáveis let e const.md",
+    "Computação/COMP01 - JavaScript/Capítulo 2/Valores default em funções.md",
+    "Planejamento.canvas"
   ]
 }

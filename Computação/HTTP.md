@@ -1,0 +1,3 @@
+HTTP (Hypertext Transfer Protocol) um protocolo de comunicação utilizado na World Wide Web (www) para levar as informações de um servidor para um cliente. É partir dele que é possível acessar o conteúdos disponivel na internet.
+
+O HTTP é um protocolo simples que define um conjunto de regras para que as mensagens obedeçam um determinado formato. O HTTP possui um esquema de códigos de demonstram o [[Status HTTP]] que basicamente possui respotas das requisições feitas ao servidor.

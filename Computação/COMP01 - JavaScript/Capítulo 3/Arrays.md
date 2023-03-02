@@ -8,3 +8,4 @@ A função de um array é armazenar valores do mesmo tipo, sequencialmente. É i
 - Em javascript é possível criar arrays multidimencionais, basicamente é uma estrutura de arrays com arrays dentro.
 
 [[Métodos nativos de arrays]]
+
